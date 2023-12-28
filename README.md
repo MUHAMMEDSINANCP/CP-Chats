@@ -2,7 +2,7 @@
 
 CP Chats is a real-time chat application powered by Firebase authentication, Firestore, and Realtime Database. This platform enables users to engage in seamless real-time messaging, leveraging Firebase's robust features for efficient communication. Additionally, Shared Preferences are used for local data storage on the user's device.
 
-### Features:
+### Features :
 
 Real-Time Messaging : Foster communication with other users in real-time within the app.
 
