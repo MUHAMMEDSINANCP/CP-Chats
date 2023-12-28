@@ -16,4 +16,4 @@ Seamless Interactions : Enables users to chat effortlessly using Firebase's real
 This repository demonstrates a real-time chat application built on Firebase, showcasing efficient communication features along with local data storage using Shared Preferences.
 
 ### Feedback :
-We appreciate your valuable feedback and suggestions for further enhancing CP Chats. Feel free to reach us at cpmuhammedsinan@gmail.com.
+I appreciate your valuable feedback and suggestions for further enhancing CP Chats. Feel free to reach us at cpmuhammedsinan@gmail.com.
