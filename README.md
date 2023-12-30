@@ -17,3 +17,4 @@ This repository demonstrates a real-time chat application built on Firebase, sho
 
 ### Feedback :
 I appreciate your valuable feedback and suggestions for further enhancing CP Chats. Feel free to reach out to us at cpmuhammedsinan@gmail.com.
+ 
